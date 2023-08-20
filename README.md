@@ -1,2 +1,4 @@
 # miles_to_km
-App that converts miles to kilometres.
+miles = 500
+kilometres = miles * 1.609344
+print(kilometres)
